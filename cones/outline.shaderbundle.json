@@ -1,0 +1,10 @@
+{
+    "OutlineVertex": {
+        "type": "vertex",
+        "file": "shaders/outline.vert"
+    },
+    "OutlineFragment": {
+        "type": "fragment",
+        "file": "shaders/outline.frag"
+    }
+}
